@@ -1,5 +1,5 @@
 {
-  "name": "adonis5-sentry",
+  "name": "@ruanitto/adonis5-sentry",
   "version": "1.1.0",
   "description": "Sentry provider for AdonisJS 5",
   "scripts": {
